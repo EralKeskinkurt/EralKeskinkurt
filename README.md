@@ -1,6 +1,6 @@
-### Hello, My Name Is [Eral Keskinkurt](https://github.com/TamperMonkeyUpp) 👋
+# Hello, My Name Is [Eral Keskinkurt](https://github.com/TamperMonkeyUpp) 👋
 
-I have been working towards becoming a FullStack developer for about 1 year.
+### I have been working towards becoming a FullStack developer for about 1 year.
 
 🌱 Programming Languages I Use:
 
@@ -11,11 +11,8 @@ I have been working towards becoming a FullStack developer for about 1 year.
 <img src="https://www.svgrepo.com/show/373940/nuxt.svg" width="25" height="25" alt="html" />  <img src="https://www.svgrepo.com/show/306466/next-dot-js.svg" width="25" height="25" alt="html" />  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="25" height="25" alt="html" />  <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" width="25" height="25" alt="html" />  <img src="https://www.svgrepo.com/show/452130/vue.svg" width="25" height="25" alt="html" />
 
 💻 Databases I Use:
-![GitHub Logo](https://tr.wikipedia.org/wiki/Dosya:MongoDB_Logo.svg)
-![GitHub Logo](https://www.vectorlogo.zone/logos/mysql/mysql-official.svg)
-![GitHub Logo](https://en.wikipedia.org/wiki/File:Postgresql_elephant.svg)
-![GitHub Logo](https://tr.wikipedia.org/wiki/Dosya:PhpMyAdmin_logo.png)
 
+<img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="25" height="25" alt="html" />  <img src="https://www.svgrepo.com/show/373848/mysql.svg" width="25" height="25" alt="html" />  <img src="https://www.svgrepo.com/show/354200/postgresql.svg" width="25" height="25" alt="html" />  <img src="https://www.svgrepo.com/show/473751/phpmyadmin.svg" width="25" height="25" alt="html" />
 
 
 📫 Other Platforms You Can Reach Me:
@@ -29,4 +26,5 @@ I have been working towards becoming a FullStack developer for about 1 year.
 - API development
 
 📊 GitHub Statistics:
+
 ![Eral Keskinkurt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TamperMonkeyUpp&show_icons=true&theme=radical)
