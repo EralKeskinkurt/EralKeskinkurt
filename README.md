@@ -3,7 +3,7 @@
 I have been working towards becoming a FullStack developer for about 1 year.
 
 🌱 Programming Languages I Use:
-<img src="https://www.svgrepo.com/show/452228/html-5.svg" width="40px" height="40px" alt="html" />
+<img src="https://www.svgrepo.com/show/452228/html-5.svg" width="40" height="40" alt="html" />
 ![GitHub Logo](https://tr.wikipedia.org/wiki/Dosya:CSS3_logo_and_wordmark.svg)
 ![GitHub Logo](https://tr.wikipedia.org/wiki/Dosya:Unofficial_JavaScript_logo_2.svg)
 ![GitHub Logo](https://tr.wikipedia.org/wiki/Dosya:Node.js_logo.svg)
