@@ -27,4 +27,4 @@
 
 📊 GitHub Statistics:
 
-![Eral Keskinkurt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TamperMonkeyUpp&show_icons=true&theme=radical)
+![Eral Keskinkurt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EralKeskinkurt&show_icons=true&theme=radical)
