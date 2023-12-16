@@ -18,7 +18,7 @@
 📫 Other Platforms You Can Reach Me:
 - [LinkedIn](https://www.linkedin.com/in/eral-keskinkurt-255b27255/)
 
-✉️ You can reach me by email: tampermonkey08@gmail.com
+✉️ You can reach me by email: eralkeskinkurt@gmail.com
 
 ⚡ Interests:
 - Web development
