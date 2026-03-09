@@ -1,30 +1,44 @@
-# Hello, My Name Is [Eral Keskinkurt](https://github.com/TamperMonkeyUpp) 👋
+# Hi 👋 I'm Eral KeskinKurt
 
-### I have been working towards becoming a FullStack developer for about 1 year.
+Full Stack Web Developer focused on building modern web applications.
 
-🌱 Programming Languages I Use:
+I work mainly with **Next.js, Node.js (NestJS), TypeScript and MySQL** to build scalable web apps and APIs.
 
-<img src="https://www.svgrepo.com/show/452228/html-5.svg" width="30" height="30" alt="html" />  <img src="https://www.svgrepo.com/show/452185/css-3.svg" width="30" height="30" alt="html" />  <img src="https://www.svgrepo.com/show/353925/javascript.svg" width="25" height="25" alt="html" />  <img src="https://www.svgrepo.com/show/452075/node-js.svg" width="25" height="25" alt="html" />  <img src="https://www.svgrepo.com/show/452088/php.svg" width="25" height="25" alt="html" />
+---
 
-🔧 Frameworks I Use:
+## 🚀 Tech Stack
 
-<img src="https://www.svgrepo.com/show/373940/nuxt.svg" width="25" height="25" alt="html" />  <img src="https://www.svgrepo.com/show/306466/next-dot-js.svg" width="25" height="25" alt="html" />  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="25" height="25" alt="html" />  <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" width="25" height="25" alt="html" />  <img src="https://www.svgrepo.com/show/452130/vue.svg" width="25" height="25" alt="html" />
+**Frontend**
+- Next.js
+- React
+- Tailwind CSS
+- Bootstrap
+- Vue.js
 
-💻 Databases I Use:
+**Backend**
+- Node.js
+- NestJS
+- REST APIs
 
-<img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="25" height="25" alt="html" />  <img src="https://www.svgrepo.com/show/373848/mysql.svg" width="25" height="25" alt="html" />  <img src="https://www.svgrepo.com/show/354200/postgresql.svg" width="25" height="25" alt="html" />  <img src="https://www.svgrepo.com/show/473751/phpmyadmin.svg" width="25" height="25" alt="html" />
+**Database**
+- MySQL
+- PostgreSQL
+- MongoDB
+- Prisma ORM
 
+---
 
-📫 Other Platforms You Can Reach Me:
-- [LinkedIn](https://www.linkedin.com/in/eral-keskinkurt-255b27255/)
+## 💻 What I Build
 
-✉️ You can reach me by email: eralkeskinkurt@gmail.com
+- Web Applications
+- SaaS Platforms
+- REST APIs
+- Admin Dashboards
+- Landing Pages
 
-⚡ Interests:
-- Web development
-- Database management
-- API development
+---
 
-📊 GitHub Statistics:
+## 📫 Contact
 
-![Eral Keskinkurt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EralKeskinkurt&show_icons=true&theme=radical)
+- LinkedIn: (link)
+- Email: eralkeskin kurt@gmail.com
