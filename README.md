@@ -2,7 +2,7 @@
 
 Full Stack Web Developer focused on building modern web applications.
 
-I work mainly with **Next.js, Node.js (NestJS), TypeScript and MySQL** to build scalable web apps and APIs.
+I work mainly with **Next.js, Node.js (NestJS), TypeScript and PostgreSQL** to build scalable web apps and APIs.
 
 ---
 
