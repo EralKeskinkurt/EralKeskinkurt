@@ -1,10 +1,6 @@
 # Hi 👋 I'm Eral KeskinKurt
 
-Full Stack Web Developer focused on building modern web applications.
-
-I work mainly with **Next.js, Node.js (NestJS), TypeScript and PostgreSQL** to build scalable web apps and APIs.
-
----
+Full Stack Web Developer building modern web applications.
 
 ## 🚀 Tech Stack
 
@@ -12,7 +8,6 @@ I work mainly with **Next.js, Node.js (NestJS), TypeScript and PostgreSQL** to b
 - Next.js
 - React
 - Tailwind CSS
-- Bootstrap
 - Vue.js
 
 **Backend**
@@ -21,24 +16,17 @@ I work mainly with **Next.js, Node.js (NestJS), TypeScript and PostgreSQL** to b
 - REST APIs
 
 **Database**
-- MySQL
 - PostgreSQL
+- MySQL
 - MongoDB
-- Prisma ORM
-
----
+- Prisma
 
 ## 💻 What I Build
-
-- Web Applications
+- Web Apps
 - SaaS Platforms
-- REST APIs
+- APIs
 - Admin Dashboards
-- Landing Pages
-
----
 
 ## 📫 Contact
-
 - LinkedIn: (link)
-- Email: eralkeskin kurt@gmail.com
+- Email: eralkeskinkurt@gmail.com
